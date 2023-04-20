@@ -231,3 +231,10 @@ main {
         margin: 10vh auto;
     }
 }
+
+.botoes {
+    position: relative;
+    bottom: 10%;
+ }
+
+
